@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI",
+  "description": "Forensic Fraud Inspector & Phishing Threat Intelligence Engine for scam offers, deceptive emails, and malicious links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
